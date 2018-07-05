@@ -1,0 +1,14 @@
+
+body {
+	text-align: center;
+	background: url("clearcut.jpg");
+	background-size: cover;
+	color: pink;
+	font-family: Helvetica;
+}
+hr {
+	width: 200px;
+}
+p {
+	font-size: 22px;
+}
