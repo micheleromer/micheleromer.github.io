@@ -1,9 +1,9 @@
 
 body {
 	text-align: center;
-	background: url("clearcut.jpg");
+	background: pink;
 	background-size: cover;
-	color: pink;
+	color: #fff;
 	font-family: Helvetica;
 }
 hr {
