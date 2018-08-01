@@ -23,19 +23,9 @@ nav {
 	border: 1px solid black;
 	padding: 20px; 
 }
-aside {
+div{
 	background-color: #FFC675;
 	border: 1px black solid;
-	padding: 20px;
-}
-ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-article {
-	background-color: #E89C6C;
-	border: 1px black solid; 
 	padding: 20px;
 }
 footer {
