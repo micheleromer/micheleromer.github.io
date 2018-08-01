@@ -22,12 +22,26 @@ nav {
 	background-color: #E8C66A;
 	border: 1px solid black;
 	padding: 20px; 
+	font-size: 1.8em;
+	float: right;
 }
+nav a {
+	text-decoration: none;
+	color: black;
+	margin: 1.8em;
+	display: inline-block; 
+}
+
 div{
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
+	font-size: 1.2em; 
+	width: 46%; 
+	padding: 2%
+	display: inline-block;
 }
+
 footer {
 	background-color: #FF957E;
 	border: 1px black solid; 
