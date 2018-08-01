@@ -17,6 +17,7 @@ header {
 	background-color: #FFED74; 
 	border: 1px black solid;
 	padding: 20px; 
+	float: left;
 }
 nav {
 	background-color: #E8C66A;
@@ -46,12 +47,6 @@ footer {
 	background-color: #FF957E;
 	border: 1px black solid; 
 	padding: 20px; 
-}
-
-#two_column {
-	background-color: #FFB7CF; 
-	border: 1px black solid; 
-	padding: 20px;
 }
 
 #left{
