@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Gilda+Display|Open+Sans:300,400');
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 100%; 
+}
+body {
+    font-family: 'Open Sans', sans-serif; 
+}
+h1 {
+	font-family: 'Gilda Display', serif;
+	font-size: 60px; 
+	font-weight: normal;
+} 
+header {
+	background-color: #FFED74; 
+	border: 1px black solid;
+	padding: 20px; 
+	float: left;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px solid black;
+	padding: 20px; 
+	font-size: 1.8em;
+	float: left;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	margin: 1.8em;
+	display: inline-block; 
+}
+
+div{
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+	font-size: 1.2em; 
+	width: 46%; 
+	padding: 2%
+	display: inline-block;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid; 
+	padding: 20px; 
+}
+
+#left{
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%; 
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%; 
+}
+
+.clearfix:after{ 
+visibility: hidden;
+display: block;
+font-size: 0;
+content: " ";
+clear: both;
+height: 0;
+ }
